@@ -19,7 +19,7 @@ This project is very much a work in progress, so it is a little rough around the
 ## Want?
 Turning this into your own résumé is pretty straightforward I think.
 
-1. [Fork this repository](https://github.com/devarshigoswami/resumebuilder/fork)
+1. [Fork this repository](https://github.com/devarshigoswami/resume_builder/fork)
 2. Edit <a href="_config.yml">_config.yml</a> so it contains your personal info; name, email, phone number, etc.
 3. Edit <a href="index.html">index.html</a> so it contains your shit
 4. Tweak [my Sass](_sass) if required.
