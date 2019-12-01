@@ -24,7 +24,7 @@ Turning this into your own résumé is pretty straightforward I think.
 3. Edit <a href="index.html">index.html</a> so it contains your shit
 4. Tweak [my Sass](_sass) if required.
 
-That's it, Github should build your site automatically to: http://[YOUR GITHUB USERNAME].github.io/jekyll-resume just as mine builds automatically to [http://devarshigoswami.github.io/jekyll-resume](http://nternetinspired.github.io/jekyll-resume)
+That's it, Github should build your site automatically to: http://[YOUR GITHUB USERNAME].github.io/jekyll-resume just as mine builds automatically to [http://devarshigoswami.github.io/jekyll-resume](http://devarshigoswami.github.io/jekyll-resume)
 
 
 
